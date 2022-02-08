@@ -12,6 +12,7 @@ export default function IndexPage() {
         Primary Button
       </Button>
       <div>
+        ddddd
         <Link to="/about">goto about</Link>
       </div>
     </div>
